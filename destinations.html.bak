@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Destinations | Nepal Tourism</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<nav>
+    <a href="home.html">Home</a>
+    <a href="destinations.html">Destinations</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="hero">
+    <div class="content">
+        <h1>Top Destinations in Nepal</h1>
+        <p>Explore mountains, cities, lakes and cultural heritage sites</p>
+    </div>
+</div>
+
+<section>
+
+    <h2>Popular Places</h2>
+
+    <div class="card-container">
+
+        <div class="card">
+            <h3>🏔️ Mount Everest</h3>
+            <p>Highest mountain in the world, located in Solukhumbu.</p>
+        </div>
+
+        <div class="card">
+            <h3>🏞️ Pokhara</h3>
+            <p>Beautiful lakes, mountains and adventure sports city.</p>
+        </div>
+
+        <div class="card">
+            <h3>🛕 Kathmandu Valley</h3>
+            <p>Rich culture, temples and historical heritage sites.</p>
+        </div>
+
+        <div class="card">
+            <h3>🌄 Lumbini</h3>
+            <p>Birthplace of Lord Buddha and peaceful spiritual place.</p>
+        </div>
+
+    </div>
+
+</section>
+
+<footer>
+    © 2026 Nepal Tourism | Made by Ishan Shrestha
+</footer>
+
+</body>
+</html>
