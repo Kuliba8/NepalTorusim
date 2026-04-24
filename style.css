@@ -9,14 +9,12 @@ html {
     scroll-behavior: smooth;
 }
 
-/* FULL BACKGROUND IMAGE */
 body {
     background: url('../bck.gif') no-repeat center center fixed;
     background-size: cover;
     color: white;
 }
 
-/* NAVBAR */
 nav {
     background: rgba(0, 0, 0, 0.6);
     padding: 15px 0;
@@ -35,7 +33,6 @@ nav a:hover {
     color: #f6b93b;
 }
 
-/* HERO SECTION */
 .hero {
     height: 80vh;
     display: flex;
@@ -57,7 +54,6 @@ nav a:hover {
     font-size: 18px;
 }
 
-/* BUTTON */
 .btn {
     display: inline-block;
     margin-top: 20px;
@@ -73,19 +69,16 @@ nav a:hover {
     background: #e58e26;
 }
 
-/* SECTION */
 section {
     padding: 60px 20px;
     text-align: center;
 }
 
-/* SECTION TITLE */
 section h2 {
     font-size: 32px;
     margin-bottom: 20px;
 }
 
-/* CARD CONTAINER */
 .card-container {
     display: flex;
     justify-content: center;
@@ -94,7 +87,6 @@ section h2 {
     margin-top: 20px;
 }
 
-/* CARD STYLE */
 .card {
     background: rgba(0, 0, 0, 0.6);
     padding: 20px;
@@ -104,7 +96,6 @@ section h2 {
     backdrop-filter: blur(5px);
 }
 
-/* CARD HOVER EFFECT */
 .card:hover {
     transform: translateY(-8px);
     background: rgba(0, 0, 0, 0.75);
